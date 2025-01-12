@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vatscode
 - 👀 I’m interested in Fullstack Development 
-- 🌱 I’m currently learning Reactjs, MongoDB, Typescript
+- 🌱 I’m currently learning MERN Stack
 - 📫 Connect with me on Linkedin 
 
 
