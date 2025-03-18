@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vatscode
-- 👀 I’m interested in Fullstack Development 
-- 🌱 I’m currently learning MERN Stack
+- 👀 I like to build software products
+- 🌱 I’m interested in fullstack development and WEB3
 - 📫 Connect with me on Linkedin 
 
 
