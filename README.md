@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vatscode
 - 👀 I like to build software products
 - 🌱 I’m interested in fullstack development and WEB3
-- 📫 Connect with me on Linkedin 
+
 
 
 <!---
